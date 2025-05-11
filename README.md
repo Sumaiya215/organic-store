@@ -56,4 +56,3 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 ```
 
-<img src="./demo/Desktop.png"/>
